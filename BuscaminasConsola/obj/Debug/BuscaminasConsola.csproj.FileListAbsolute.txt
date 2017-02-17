@@ -1,0 +1,6 @@
+c:\users\enrique\documents\visual studio 2017\Projects\Buscaminas\BuscaminasConsola\bin\Debug\BuscaminasConsola.exe.config
+c:\users\enrique\documents\visual studio 2017\Projects\Buscaminas\BuscaminasConsola\bin\Debug\BuscaminasConsola.exe
+c:\users\enrique\documents\visual studio 2017\Projects\Buscaminas\BuscaminasConsola\bin\Debug\BuscaminasConsola.pdb
+c:\users\enrique\documents\visual studio 2017\Projects\Buscaminas\BuscaminasConsola\obj\Debug\BuscaminasConsola.csprojResolveAssemblyReference.cache
+c:\users\enrique\documents\visual studio 2017\Projects\Buscaminas\BuscaminasConsola\obj\Debug\BuscaminasConsola.exe
+c:\users\enrique\documents\visual studio 2017\Projects\Buscaminas\BuscaminasConsola\obj\Debug\BuscaminasConsola.pdb
