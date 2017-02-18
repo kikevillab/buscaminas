@@ -1,0 +1,9 @@
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\bin\Debug\BuscaminasVentana.exe.config
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\bin\Debug\BuscaminasVentana.exe
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\bin\Debug\BuscaminasVentana.pdb
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\obj\Debug\BuscaminasVentana.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\obj\Debug\BuscaminasVentana.Form1.resources
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\obj\Debug\BuscaminasVentana.Properties.Resources.resources
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\obj\Debug\BuscaminasVentana.csproj.GenerateResource.Cache
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\obj\Debug\BuscaminasVentana.exe
+C:\Users\Enrique\Documents\Visual Studio 2017\Projects\Buscaminas\BuscaminasVentana\obj\Debug\BuscaminasVentana.pdb

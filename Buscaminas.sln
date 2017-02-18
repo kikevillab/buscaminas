@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaminasConsola", "BuscaminasConsola\BuscaminasConsola.csproj", "{DFC0ADF2-4D19-4E93-B2FF-7641A3093AFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaminasVentana", "BuscaminasVentana\BuscaminasVentana.csproj", "{3874C65C-30FD-4E55-9DAD-7FC531E3ECC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DFC0ADF2-4D19-4E93-B2FF-7641A3093AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC0ADF2-4D19-4E93-B2FF-7641A3093AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC0ADF2-4D19-4E93-B2FF-7641A3093AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3874C65C-30FD-4E55-9DAD-7FC531E3ECC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3874C65C-30FD-4E55-9DAD-7FC531E3ECC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3874C65C-30FD-4E55-9DAD-7FC531E3ECC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3874C65C-30FD-4E55-9DAD-7FC531E3ECC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
