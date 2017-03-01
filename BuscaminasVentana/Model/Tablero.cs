@@ -15,9 +15,8 @@ namespace BuscaminasVentana.Model
 
         private bool bombaEncontrada;
         private int numeroBombas;
-        private int v;
 
-        public Tablero(int fils, int cols)
+        private Tablero(int fils, int cols)
         {
             this.fils = fils + 2;
             this.cols = cols + 2;

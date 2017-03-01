@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="buscaminasModelStoreContainer" CdmEntityContainer="buscaminasEntities">
+    <EntitySetMapping Name="Puntuaciones">
+      <EntityTypeMapping TypeName="buscaminasModel.Puntuacione">
+        <MappingFragment StoreEntitySet="Puntuaciones">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Puntuacion" ColumnName="Puntuacion" />
+          <ScalarProperty Name="Jugador" ColumnName="Jugador" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
